@@ -5,11 +5,10 @@ To design and implement a 2-bit half adder using discrete transistor-based logic
 and fundamental digital logic design principles.
 
 ## Tools & Technologies Used
-LTSpice (Simulation)
-Multisim (Verification)
-Breadboard (for prototyping)
-Discrete Components: NPN Transistors, Resistors, Capacitors
-Digital Multimeter (for testing)
+- LTSpice (Simulation)
+- Breadboard (for prototyping)
+- Discrete Components: NPN Transistors, Resistors, Capacitors
+- Digital Multimeter (for testing)
 
 ## Circuit Diagram
 
